@@ -1,4 +1,4 @@
-module github.com/nucktwillieren/session
+module github.com/nucktwillieren/session-go
 
 go 1.16
 
