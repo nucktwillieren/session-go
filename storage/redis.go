@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/nucktwillieren/auth/pkg/session"
+	"github.com/nucktwillieren/session-go/session"
 )
 
 type redisStorage struct {

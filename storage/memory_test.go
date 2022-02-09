@@ -3,7 +3,7 @@ package storage_test
 import (
 	"testing"
 
-	"github.com/nucktwillieren/auth/pkg/session/storage"
+	"github.com/nucktwillieren/session-go/storage"
 	"github.com/stretchr/testify/assert"
 )
 

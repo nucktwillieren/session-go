@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nucktwillieren/auth/pkg/session"
-	"github.com/nucktwillieren/auth/pkg/session/storage"
+	"github.com/nucktwillieren/session-go/session"
+	"github.com/nucktwillieren/session-go/storage"
 	"github.com/stretchr/testify/assert"
 )
 

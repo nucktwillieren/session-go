@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	"github.com/nucktwillieren/auth/pkg/session"
+	"github.com/nucktwillieren/session-go/session"
 )
 
 func MarshalData(s *session.Session) (string, error) {

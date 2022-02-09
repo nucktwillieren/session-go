@@ -3,7 +3,7 @@ package storage
 import (
 	"errors"
 
-	"github.com/nucktwillieren/auth/pkg/session"
+	"github.com/nucktwillieren/session-go/session"
 )
 
 type memoryStorage struct {

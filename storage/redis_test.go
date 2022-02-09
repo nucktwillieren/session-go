@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/nucktwillieren/auth/pkg/session"
-	"github.com/nucktwillieren/auth/pkg/session/storage"
+	"github.com/nucktwillieren/session-go/session"
+	"github.com/nucktwillieren/session-go/storage"
 	"github.com/ory/dockertest/v3"
 	"github.com/ory/dockertest/v3/docker"
 	"github.com/stretchr/testify/assert"
